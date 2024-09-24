@@ -103,7 +103,7 @@ Berikut merupakan langkah-langkah yang saya lakukan untuk menginstall Flutter :<
 
 - Kunjungi website Android Studio dan klik download.
 <p align="center">
-  <img src="./assets/downloadAndro.png">
+  <img src="assets/downloadAndro.png">
 </p>
 
 - Setelah itu, run androidstudio.exe dan sisanya hanya klik next saja hingga Android Studio terinstall.
