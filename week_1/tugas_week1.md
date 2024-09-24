@@ -104,28 +104,28 @@ Berikut merupakan langkah-langkah yang saya lakukan untuk menginstall Flutter :<
 - Kunjungi website Android Studio dan klik download.
 
 <p align="center">
-  <img src="./assets/downloadAndro.png">
+  <img src="./assets/downloadAndro.PNG">
 </p>
 
 - Setelah itu, run androidstudio.exe dan sisanya hanya klik next saja hingga Android Studio terinstall.
 
 <p align="center">
-  <img src="./assets/install1.png">
+  <img src="./assets/install1.PNG">
 </p>
 <p align="center">
-  <img src="./assets/install2.png">
+  <img src="./assets/install2.PNG">
 </p>
 <p align="center">
-  <img src="./assets/install3.png">
+  <img src="./assets/install3.PNG">
 </p>
 <p align="center">
-  <img src="./assets/install4.png">
+  <img src="./assets/install4.PNG">
 </p>
 
 - Setelah Android Studio telah terinstall, klik Finish.
 
 <p align="center">
-  <img src="./assets/install5.png">
+  <img src="./assets/install5.PNG">
 </p>
 
 #### 2. Menginstall Flutter
@@ -133,118 +133,118 @@ Berikut merupakan langkah-langkah yang saya lakukan untuk menginstall Flutter :<
 - Pergi ke halaman docs pada web flutter, lalu pilih sistem operasi. Disini saya memilih yang windows karena PC saya memiliki sistem operasi windows.
 
 <p align="center">
-  <img src="./assets/flutter1.png">
+  <img src="./assets/flutter1.PNG">
 </p>
 
 - Lalu pilih yang android, karena kita akan melakukan pengembangan aplikasi android.
 
 <p align="center">
-  <img src="./assets/flutter2.png">
+  <img src="./assets/flutter2.PNG">
 </p>
 
 - Karena terdapat pilihan untuk menginstall melalui Visual Studio Code, maka saya memilih untuk menginstall melalui Visual Studio Code saja.
 
 <p align="center">
-  <img src="./assets/flutter3.png">
+  <img src="./assets/flutter3.PNG">
 </p>
 
 - Pada Visual Studio Code, install extension FLutter.
 
 <p align="center">
-  <img src="./assets/flutter4.png">
+  <img src="./assets/flutter4.PNG">
 </p>
 
 - Ketik >flutter, lalu pilih Flutter:New Project.
 
 <p align="center">
-  <img src="./assets/flutter5.png">
+  <img src="./assets/flutter5.PNG">
 </p>
 
 - Pada Visual Studio Code saya, terdapat error yang menunjukkan bahwa tidak ditemukan FLutter SDK. Maka saya download SDK terlebih dahulu.
 
 <p align="center">
-  <img src="./assets/flutter6.png">
+  <img src="./assets/flutter6.PNG">
 </p>
 
 - Terdapat error yang menunjukkan bahwa gagal untuk meng-clone FLutter menggunakan Git.
 
 <p align="center">
-  <img src="./assets/flutter7.png">
+  <img src="./assets/flutter7.PNG">
 </p>
 
 - Kemudian saya cek dengan prompt git --version.
 
 <p align="center">
-  <img src="./assets/flutter8.png">
+  <img src="./assets/flutter8.PNG">
 </p>
 
 - Saya baru ingat bahwa saya baru saja mengganti SSD dan melakukan install ulang, sehingga Git belum terinstall. Oleh karena itu saya akan menginstall Git terlebih dahulu.
 
 <p align="center">
-  <img src="./assets/flutter9.png">
+  <img src="./assets/flutter9.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter10.png">
+  <img src="./assets/flutter10.PNG">
 </p>
 
 - Setelah selesai menginstall Git, download SDK dan pilih lokasi foldernya. Kemudian tunggu.
 
 <p align="center">
-  <img src="./assets/flutter11.png">
+  <img src="./assets/flutter11.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter12.png">
+  <img src="./assets/flutter12.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter13.png">
+  <img src="./assets/flutter13.PNG">
 </p>
 
 - Setelah download selesai, klik Add SDK to PATH untuk menambahkan SDK ke PATH.
 
 <p align="center">
-  <img src="./assets/flutter14.png">
+  <img src="./assets/flutter14.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter15.png">
+  <img src="./assets/flutter15.PNG">
 </p>
 
 - Ketik flutter doctor pada terminal untuk memverifikasi instalasi.
 
 <p align="center">
-  <img src="./assets/flutter16.png">
+  <img src="./assets/flutter16.PNG">
 </p>
 
 - Terdapat 3 issue yang ditemukan, saya akan memperbaiki issue yang pertama terlebih dahulu dengan membuka Android Studio dan menginstall setupnya.
 
 <p align="center">
-  <img src="./assets/flutter17.png">
+  <img src="./assets/flutter17.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter18.png">
+  <img src="./assets/flutter18.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter19.png">
+  <img src="./assets/flutter19.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter20.png">
+  <img src="./assets/flutter20.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter21.png">
+  <img src="./assets/flutter21.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter22.png">
+  <img src="./assets/flutter22.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter23.png">
+  <img src="./assets/flutter23.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter24.png">
+  <img src="./assets/flutter24.PNG">
 </p>
 
 - Setelah selesai, ketik prompt flutter doctor lagi pada terminal.
 
 <p align="center">
-  <img src="./assets/flutter25.png">
+  <img src="./assets/flutter25.PNG">
 </p>
 
 - Dapat terlihat bahwa issue pertama telah selesai, tersisa 2 issue lagi yang perlu diperbaiki. Sekarang kita akan memperbaiki issue kedua yang bertuliskan :
@@ -260,40 +260,40 @@ Berikut merupakan langkah-langkah yang saya lakukan untuk menginstall Flutter :<
 - Kemudian pilih SDK Tools.
 
 <p align="center">
-  <img src="./assets/flutter27.png">
+  <img src="./assets/flutter27.PNG">
 </p>
 
 - Centang Android SDK Command-line Tools (latest), lalu pilih OK.
 
 <p align="center">
-  <img src="./assets/flutter28.png">
+  <img src="./assets/flutter28.PNG">
 </p>
 <p align="center">
-  <img src="./assets/flutter29.png">
+  <img src="./assets/flutter29.PNG">
 </p>
 
 - Jika sudah, pergi ke terminal dan ketik prompt flutter doctor untuk cek.
 
 <p align="center">
-  <img src="./assets/flutter30.png">
+  <img src="./assets/flutter30.PNG">
 </p>
 
 - Dapat dilihat bahwa issue pertama dari issue nomor 2 telah terselesaikan. Sekarang kita akan memperbaiki issue ketiga (yang paling bawah).
 
 <p align="center">
-  <img src="./assets/flutter31.png">
+  <img src="./assets/flutter31.PNG">
 </p>
 
 - Ketik prompt flutter doctor --android-licenses lalu ketik "y" setiap ada pertanyaan sampai semua lisensi package SDK diterima
 
 <p align="center">
-  <img src="./assets/flutter32.png">
+  <img src="./assets/flutter32.PNG">
 </p>
 
 - flutter doctor untuk mengecek.
 
 <p align="center">
-  <img src="./assets/flutter33.png">
+  <img src="./assets/flutter33.PNG">
 </p>
 
 - Dapat terlihat bahwa issue ketiga berhasil diperbaiki. Tersisa issue kedua yang bertuliskan :
@@ -310,19 +310,19 @@ Berikut merupakan langkah-langkah yang saya lakukan untuk menginstall Flutter :<
 - Klik Resume.
 
 <p align="center">
-  <img src="./assets/flutter35.png">
+  <img src="./assets/flutter35.PNG">
 </p>
 
 - Kemudian terakhir klik Update.
 
 <p align="center">
-  <img src="./assets/flutter36.png">
+  <img src="./assets/flutter36.PNG">
 </p>
 
 - Setelah itu cek lagi pada terminal dengan prompt flutter doctor. Dapat dilihat pada gambar dibawah bahwa tidak ada issue lagi yang ditemukan.
 
 <p align="center">
-  <img src="./assets/flutter37.png">
+  <img src="./assets/flutter37.PNG">
 </p>
 
 #### Installasi Flutter Selesai
