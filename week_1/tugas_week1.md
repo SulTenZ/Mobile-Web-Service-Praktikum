@@ -370,6 +370,6 @@ echo "Hello World";
 ?>
 ```
 
-Untuk bahasa PHP, kita perlu menggunakan perintah echo""; yang dibungkus oleh tag PHP, yaitu <?php ... ?>
+Untuk bahasa PHP, kita perlu menggunakan perintah echo""; yang dibungkus oleh tag PHP, yaitu `<?php ... ?>`
 
 ---
