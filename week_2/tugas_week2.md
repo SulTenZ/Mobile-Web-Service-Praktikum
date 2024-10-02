@@ -1,6 +1,6 @@
-# Week 1 (Minggu Pertama)
+# Week 2 (Minggu Kedua)
 
-**Tanggal**: 19 September 2024
+**Tanggal**: 26 September 2024
 
 **Nama**: Sultan Akmal Ghiffari
 **NPM**: 5220411047
