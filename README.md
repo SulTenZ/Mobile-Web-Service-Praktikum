@@ -11,9 +11,10 @@ Selamat datang di repositori tugas mingguan mata kuliah **Mobile & Web Service P
 
 ## Daftar Tugas Mingguan
 
-- **[Week 1 - Pertemuan 1 (20 September 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_1/tugas_week1.md)**  
+- **[Week 1 - Pertemuan 1 (19 September 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_1/tugas_week1.md)**  
   Review bahasa pemrograman untuk pengembangan mobile dan web client.
-- **Week 2 - Pertemuan 2** _(Akan segera diunggah)_
+- **[Week 2 - Pertemuan 2 (26 September 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_2/tugas_week2.md)**  
+  Review bahasa pemrograman untuk pengembangan mobile dan web client.
 
 - **Week 3 - Pertemuan 3** _(Akan segera diunggah)_
 
