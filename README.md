@@ -14,10 +14,10 @@ Selamat datang di repositori tugas mingguan mata kuliah **Mobile & Web Service P
 - **[Week 1 - Pertemuan 1 (19 September 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_1/tugas_week1.md)**  
   Review bahasa pemrograman untuk pengembangan mobile dan web client.
 - **[Week 2 - Pertemuan 2 (26 September 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_2/tugas_week2.md)**  
-  Review bahasa pemrograman untuk pengembangan mobile dan web client.
+  Flutter Widget.
 
-- **Week 3 - Pertemuan 3** _(Akan segera diunggah)_
-
+- **[Week 3 - Pertemuan 3 (3 Oktober 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_3/tugas_week3.md)** 
+  Flutter Widget Lanjutan.
 ---
 
 > **Catatan:** Semua file tugas akan ditempatkan dalam folder sesuai minggu masing-masing. Silakan cek link di atas untuk melihat detail tugas.
