@@ -3,6 +3,7 @@
 **Tanggal**: 3 Oktober 2024
 
 **Nama**: Sultan Akmal Ghiffari
+
 **NPM**: 5220411047
 
 ---
@@ -777,3 +778,4 @@ Cara kerja dari ```Navigator.pop``` ialah menutup halaman yang sedang ditampilka
 #### **Referensi**
 - Modul Praktikum
 - https://api.flutter.dev/flutter/widgets/widgets-library.html
+- https://docs.flutter.dev/ui/widgets
