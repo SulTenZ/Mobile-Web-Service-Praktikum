@@ -701,7 +701,27 @@ class GridViewDemoPage extends StatelessWidget { // Kelas untuk demo GridView
 }
 ```
 
-Hasil kode setelah di run :
+Setelah saya run, terdapat error seperti ini :
+<p align="center">
+  <img src="./assets/error1.png">
+</p>
+
+Akibatnya, gambar tidak dapat ditampilkan.
+<p align="center">
+  <img src="./assets/error2.png">
+</p>
+
+Ternyata, kita juga perlu untuk menambah assetnya pada file ```pupspec.yaml```. Disini, saya tambahkan asset gambar yang ingin saya masukkan pada file ```pupspec.yaml```.
+<p align="center">
+  <img src="./assets/error3.png">
+</p>
+
+Sekarang, gambar sudah bisa ditampilkan.
+<p align="center">
+  <img src="./assets/error4.png">
+</p>
+
+Hasil full kode setelah di run :
 
 <p align="center">
   <img src="./assets/cobaflutter1.png">
