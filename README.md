@@ -23,7 +23,10 @@ Selamat datang di repositori tugas mingguan mata kuliah **Mobile & Web Service P
 - **[Week 4 - Pertemuan 4 (10 Oktober 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_4/tugas_week4.md)**  
   Dokumentasi Tugas Pertemuan 4 di Kelas (Interface Login & Menu Sederhana).
 
-- **[Week 5 - Pertemuan 5 (17 Oktober 2024)]-> Akan Segera Diunduh** 
+- **[Week 5 - Pertemuan 5 (17 Oktober 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_5/tugas_week5.md)**  
+  Dokumentasi Tugas Pertemuan 5 (mengintegrasikan API pada form login).
+
+- **[Week 6 - Pertemuan 6 (24 Oktober 2024)]-> Akan Segera Diunduh** 
 
 ---
 
