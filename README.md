@@ -26,7 +26,10 @@ Selamat datang di repositori tugas mingguan mata kuliah **Mobile & Web Service P
 - **[Week 5 - Pertemuan 5 (17 Oktober 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_5/tugas_week5.md)**  
   Review Materi Rest API dan membuat API CRUD.
 
-- **[Week 6 - Pertemuan 6 (24 Oktober 2024)]-> Akan Segera Diunduh** 
+- **[Week 6 - Pertemuan 6 (24 Oktober 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_6/tugas_week6.md)**  
+  Mengintegrasikan Desain Figma ke Flutter dan Implementasi API ke Front-End.
+
+- **[Week 7 - Pertemuan 7 (24 Oktober 2024)]-> Akan Segera Diunduh** 
 
 ---
 
