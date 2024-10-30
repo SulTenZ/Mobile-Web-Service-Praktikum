@@ -2050,7 +2050,7 @@ Pada laporan diatas, saya telah berhasil mengintegrasikan API dengan desain figm
 ### List Improve untuk Minggu Selanjutnya
 
 - Menyempurnakan login (JWT)
-- Menambahkan API Payment Gateaway (User perlu membayar jika ingin menambahkan resep sendiri)
+- Menambahkan API Payment Gateaway (User perlu membayar jika ingin menambahkan resep sendiri), mungkin akan saya buat langsung setelah pulang dari pertemuan 7 besok **(mungkin)**
 - Fetch API online yang saya dapat dari github (untuk halaman Home)
 
 ## Referensi
