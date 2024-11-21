@@ -29,7 +29,8 @@ Selamat datang di repositori tugas mingguan mata kuliah **Mobile & Web Service P
 - **[Week 6 - Pertemuan 6 (24 Oktober 2024)](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week_6/tugas_week6.md)**  
   Mengintegrasikan Desain Figma ke Flutter dan Implementasi API ke Front-End.
 
-- **[Week 7 - Pertemuan 7 (24 Oktober 2024)]-> Akan Segera Diunduh** 
+- **[Laporan Gabungan Week 1-6](https://github.com/SulTenZ/Mobile-Web-Service-Praktikum/blob/main/week1-6/laporan_gabungan_1-6.md)**
+  Berisi Laporan Gabungan Week 1-6.
 
 ---
 
